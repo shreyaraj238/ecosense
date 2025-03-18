@@ -1,0 +1,10 @@
+# Ignore node_modules in both client and server
+client/ecosense/node_modules/
+server/node_modules/
+
+# Ignore build files
+client/ecosense/build/
+
+# Ignore environment variables
+server/.env
+client/ecosense/.env
